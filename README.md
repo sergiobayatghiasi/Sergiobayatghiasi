@@ -18,7 +18,7 @@ Project Management • Sustainable Development • Supply Chain Modeling • Tim
 
 ---
 
-## 📂 Featured Projects (Coming Soon)
+## 📂 Featured Projects 
 
 I’m currently organizing my GitHub to showcase the following projects:
 
@@ -27,8 +27,6 @@ I’m currently organizing my GitHub to showcase the following projects:
 - 🌊 **Marine Renewable Energy Supply Chain** (based on my PhD research)
 - ⏱️ **Time Series Forecasting in Energy Sector**
 - 🧠 **Fuzzy Delphi Method Implementation in Python**
-
-Stay tuned — repos coming soon!
 
 ---
 
@@ -47,9 +45,7 @@ Stay tuned — repos coming soon!
 
 - 📧 Email: **sergio.hamedbg@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sergio-bayat-ghiasi/)  
-- 🧠 [Google Scholar](#) *(if you have one — I can help you set it up)*  
-- 🧾 [CV / Resume](#) *(optional — can upload PDF here)*
-
----
+- 🧠 [ResearchGate](https://www.researchgate.net/profile/Seyed-Asghar-Bayat-Ghiasi) 
+  
 
 ⚡ *“Turning sustainable ideas into actionable insights — through data.”*
